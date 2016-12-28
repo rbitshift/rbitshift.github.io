@@ -1,2 +1,0 @@
-# rbitshift.github.io
-Blog
